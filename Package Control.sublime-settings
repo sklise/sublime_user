@@ -1,13 +1,16 @@
 {
-	"auto_upgrade_last_run": 1341878087,
+	"auto_upgrade_last_run": 1349324141,
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Alignment",
 		"AsciiDoc",
 		"CoffeeScript",
+		"EJS",
 		"ERB Insert and Toggle Commands",
 		"Gist",
 		"Package Control",
+		"Processing",
 		"Sass",
 		"Theme - Nil",
 		"Theme - Soda"
