@@ -5,6 +5,7 @@
 		"AdvancedNewFile",
 		"Alignment",
 		"AsciiDoc",
+		"Backbone.js",
 		"CoffeeScript",
 		"EJS",
 		"ERB Insert and Toggle Commands",
@@ -13,6 +14,7 @@
 		"Processing",
 		"Sass",
 		"Theme - Nil",
-		"Theme - Soda"
+		"Theme - Soda",
+		"Three.js Autocomplete"
 	]
 }
