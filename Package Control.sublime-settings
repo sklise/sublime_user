@@ -1,9 +1,10 @@
 {
-	"auto_upgrade_last_run": 1349324141,
+	"auto_upgrade_last_run": 1353854064,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
 		"Alignment",
+		"Arduino",
 		"AsciiDoc",
 		"Backbone.js",
 		"CoffeeScript",
@@ -14,7 +15,6 @@
 		"Processing",
 		"Sass",
 		"Theme - Nil",
-		"Theme - Soda",
 		"Three.js Autocomplete"
 	]
 }
