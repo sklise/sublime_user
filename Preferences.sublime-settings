@@ -11,7 +11,9 @@
 	[
 		".bundle",
 		".git",
-		".sass-cache"
+		".sass-cache",
+		"_site",
+		"builtAssets"
 	],
 	"font_face": "Source Code Pro",
 	"font_options":
