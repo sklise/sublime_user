@@ -1,20 +1,17 @@
 {
-	"auto_upgrade_last_run": 1353854064,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
 		"Alignment",
-		"Arduino",
-		"AsciiDoc",
-		"Backbone.js",
 		"CoffeeScript",
 		"EJS",
 		"ERB Insert and Toggle Commands",
-		"Gist",
+		"GitGutter",
+		"Handlebars",
 		"Package Control",
-		"Processing",
 		"Sass",
-		"Theme - Nil",
-		"Three.js Autocomplete"
+		"Theme - Centurion",
+		"Theme - Nil"
 	]
 }
